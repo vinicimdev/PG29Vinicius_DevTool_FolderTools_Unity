@@ -1,0 +1,17 @@
+{
+  "name": "com.vinicimdev.foldertools",
+  "version": "1.0.0",
+  "displayName": "Folder Tools",
+  "description": "Folder colorizer, custom icons and quick access panel for the Unity Project Window.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Vinicius Januzzi",
+    "url": "https://github.com/vinicimdev"
+  },
+  "keywords": [
+    "editor",
+    "folder",
+    "project window",
+    "productivity"
+  ]
+}
