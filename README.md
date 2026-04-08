@@ -49,4 +49,4 @@ Assets/FolderToolsData.meta
 
 ## Requirements
 
-- Unity 2021.3+
+- Unity 6000.3+
