@@ -1,4 +1,3 @@
-// FolderCustomizerWindow.cs
 using UnityEditor;
 using UnityEngine;
 
